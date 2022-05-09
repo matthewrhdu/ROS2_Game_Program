@@ -1,0 +1,5 @@
+float64 degrees
+---
+string exit_status
+---
+# int32[] partial_sequence
